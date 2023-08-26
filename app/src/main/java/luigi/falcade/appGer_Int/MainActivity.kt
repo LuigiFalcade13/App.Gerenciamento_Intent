@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
     lateinit var btLocal:Button;
     lateinit var btSite:Button;
     lateinit var btNovaTela:Button;
-
+    //teste
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
